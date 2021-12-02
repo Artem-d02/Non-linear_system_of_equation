@@ -1,0 +1,15 @@
+Initial approximation:
+0
+0
+Accuracy of solution: 1e-05
+
+Solution by DIM:
+1.79131
+-0.344702
+Number of iterations: 7
+
+Solution by Newton's method:
+1.79299
+-0.344141
+Number of iterations: 4
+
