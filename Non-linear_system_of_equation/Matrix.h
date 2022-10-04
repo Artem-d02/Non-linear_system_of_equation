@@ -133,6 +133,7 @@ namespace mtrx
 						max_info.value = abs(_data[i][j]);
 						max_info.x_pos = j;
 						max_info.y_pos = i;
+						max_value = max_info.value;
 					}
 				}
 			}
